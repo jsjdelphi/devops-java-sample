@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jre-alpine
+FROM registry.cn-beijing.aliyuncs.com/k8s-install/alpine-oraclejdk8
 
 WORKDIR /home
 
