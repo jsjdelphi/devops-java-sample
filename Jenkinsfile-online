@@ -15,7 +15,7 @@ pipeline {
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'registry.cn-zhangjiakou.aliyuncs.com'
         DOCKERHUB_NAMESPACE = 'k8s-setup'
-        GITHUB_ACCOUNT = 'kubesphere'
+        GITHUB_ACCOUNT = 'jsjdelphi'
         APP_NAME = 's2i-sample'
     }
 
